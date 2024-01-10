@@ -1,0 +1,52 @@
+.tab{
+    border-color: red;
+    border-style: ridge;
+    width: 40%;
+    margin-right: 50%;
+}
+
+.logo-quemsomos{
+    max-width: 100%;
+   padding-left: 100;
+   margin-left: 60%;
+   margin-top: -38%;
+   
+}
+
+.descri{
+    flex-grow: 1; 
+  padding-left: 20px; 
+}
+
+h1{
+    margin-left: 80px;
+}
+
+nav {
+    display: inline;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Gabarito', sans-serif;
+    color: rgb(64, 64, 64);
+    text-decoration: none;
+    font-style: italic;
+}
+
+footer{
+    margin-top: 50px;
+    height: 100px;
+    background-image: linear-gradient(180deg,  rgb(227, 179, 96),white);
+    border-top: 5px rgb(238, 167, 228);
+    text-align: center;
+}
+
+.container {
+    align-items: center;    
+}
+
+footer h1{
+    font-family: 'Gabarito', sans-serif;
+    font-size: 14px;
+    color: black;   
+}
